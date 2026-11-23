@@ -1,0 +1,10 @@
+a=34
+b=64
+c=a+b
+print('c=',c)
+c=b-a
+print('c=',c)
+c=a*b
+print('c=',c)
+c=b/a
+print('c=',c)
